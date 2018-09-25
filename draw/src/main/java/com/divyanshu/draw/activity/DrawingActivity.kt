@@ -34,11 +34,11 @@ class DrawingActivity : AppCompatActivity() {
             finish()
         }
 
-        setUpDrawTools()
-
-        colorSelector()
-
-        setPaintAlpha()
+//        setUpDrawTools()
+//
+//        colorSelector()
+//
+//        setPaintAlpha()
 
         setPaintWidth()
     }
